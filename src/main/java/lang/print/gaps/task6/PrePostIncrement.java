@@ -6,6 +6,7 @@ public class PrePostIncrement {
         int b = 7;
         int c = 12;
         int d = 15;
+        d++;
 
         // use post-increment operator in the mathematical expression  
         int x =   a   + b +   c   + d;
